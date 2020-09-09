@@ -1,7 +1,7 @@
 # Técnicas Avançadas de Programação - MVC
-Trabalho de apresentação sobre o padrão de projeto MVC pontuando seus conceitos e funcionalidades.
+Trabalho de apresentação sobre o padrão de projeto **MVC** pontuando seus conceitos e funcionalidades.
 
-## Sobre a Modelagem 🖥️
+## Sobre a Modelagem :books: 
 1. [:ledger: Slide da Apresentação](TAP-MVC.pdf)
 
 ## Licença
